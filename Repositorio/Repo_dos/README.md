@@ -50,3 +50,10 @@ entre otro configuraciones en la rama develop
 ```bash
 git https://github.com/BryanAlexander-Reyes/repo_2.git
 cd proyecto
+```
+
+---
+
+## Video Tutorial
+
+[![Click aquí para ver video](asset/image.png)](https://www.youtube.com/watch?v=SBONgqDOWd0)
