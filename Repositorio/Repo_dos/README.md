@@ -57,3 +57,4 @@ cd proyecto
 ## Video Tutorial
 
 [![Click aquí para ver video](asset/image.png)](https://www.youtube.com/watch?v=SBONgqDOWd0)
+[![CLick para ver imagen](https://tse2.mm.bing.net/th/id/OIP.QZDAipYNYZR812fGoB4afAHaEk?rs=1&pid=ImgDetMain&o=7&rm=3)](https://www.youtube.com/watch?v=SBONgqDOWd0)
