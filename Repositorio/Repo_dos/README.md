@@ -64,4 +64,4 @@ cd proyecto
 
 Si quieres ver el programa, da click en:
 
-[Open in StackBlitz(https://stackblitz.com/edit/stackblitz-starters-lnwlanc4?file=index.html)]
+[Open in StackBlitz](https://stackblitz.com/edit/stackblitz-starters-lnwlanc4?file=index.html)
